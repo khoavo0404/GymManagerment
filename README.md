@@ -1,6 +1,7 @@
 # GymManagerment
 Firstly,download my repository
 ===> Code -> download.zip
-.Secondly, Download jdbc according to this link: https://learn.microsoft.com/vi-vn/sql/connect/jdbc/download-microsoft-jdbc-driver-for-sql-server?view=sql-server-ver16
+Secondly,Put all files and folders into GYMMANAGERMENT_TEST
+Thirdly, Open the project, add jdbc to the libraries section (right click on libraries -> 3rd line -> then the jdbc file that I placed in the file)
 ===>
 .Finally,add jdbc and run the project
